@@ -1,4 +1,4 @@
-docker pull jenkins/ssh-slave
+#docker pull jenkins/ssh-slave
 
 FROM jenkins/ssh-slave
 
